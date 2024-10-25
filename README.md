@@ -2,7 +2,8 @@
 
 🎉 Gururla Sunuyorum: Yeni projem lgsuaritma.net.tr artık yayında! Bu projede, su arıtma sistemlerine kolay erişim sunan ve bilgilendirici içeriklerle zenginleştirilmiş bir e-ticaret platformu geliştirdim. İşte projemin detayları
 
-<h4>Proje Linki: lgsuaritma.net.tr </h4>
+<h4>Proje Linki:</h4>(https://www.lgsuaritma.net.tr/)
+
 
 Bu projeyle, kullanıcıların bilgiye ve su arıtma çözümlerine rahatça ulaşmasını sağladım. Eğer siz de markanızı dijital dünyada güçlendirmek istiyorsanız, size nasıl yardımcı olabileceğimi konuşmak için iletişime geçmekten çekinmeyin! 💼
 
